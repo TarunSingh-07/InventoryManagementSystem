@@ -29,6 +29,15 @@ Welcome to **InventoryManagementSystem**, a simple yet powerful **Java-based inv
 2. 📥 Clone this repo:
        git clone https://github.com/TarunSingh-07/InventoryManagementSystem.git
 
+---
+
+## 📈 Future Features 
+Implement a user-friendly frontend with React or JavaFX.
+
+Add barcode scanning functionality for inventory.
+
+Implement advanced inventory tracking with analytics.
+
 ## 🤝 Contributing
 Feel free to fork this project, improve it, and make a pull request! Collaboration is always welcome. 🌍
 
