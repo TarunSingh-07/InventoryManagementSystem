@@ -42,8 +42,8 @@ Have suggestions? Open an issue or contact me.
 
 ---
 
-Made with ❤️ using Java & SQL
-You can paste this into your `README.md` file in the root of your project.
+## Made with ❤️ using Java & SQL 
 
+You can paste this into your `README.md` file in the root of your project.
 Would you like me to generate the actual file and structure it in a ZIP for you to upload to GitHub?
 
