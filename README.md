@@ -27,8 +27,7 @@ Welcome to **InventoryManagementSystem**, a simple yet powerful **Java-based inv
 
 1. 🧠 Make sure you have Java and MySQL installed.
 2. 📥 Clone this repo:
-    ```bash
-  git clone https://github.com/TarunSingh-07/InventoryManagementSystem.git
+       git clone https://github.com/TarunSingh-07/InventoryManagementSystem.git
 
 🤝 Contributing
 Feel free to fork this project, improve it, and make a pull request! Collaboration is always welcome. 🌍
