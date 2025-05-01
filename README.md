@@ -1,4 +1,4 @@
-# 📦 InventoryManagement - Console-Based Inventory Management System 🖥️💾
+# 📦 InventoryManagementSystem - Console-Based Inventory Management System 🖥️💾
 
 Welcome to **InventoryManagementSystem**, a simple yet powerful **Java-based inventory management system** using **MySQL** as the backend. Designed to be used via the **console**, this project lets you insert, update, retrieve, and delete product records from your inventory database. 🚀
 
