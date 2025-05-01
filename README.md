@@ -29,16 +29,15 @@ Welcome to **InventoryManagementSystem**, a simple yet powerful **Java-based inv
 2. 📥 Clone this repo:
        git clone https://github.com/TarunSingh-07/InventoryManagementSystem.git
 
-🤝 Contributing
+## 🤝 Contributing
 Feel free to fork this project, improve it, and make a pull request! Collaboration is always welcome. 🌍
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License.
 
-💬 Feedback
+## 💬 Feedback
 If you like this project, consider giving it a ⭐ on GitHub!
 Have suggestions? Open an issue or contact me.
-
 
 ---
 
